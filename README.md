@@ -1,4 +1,4 @@
-<h2>Sistema simples para baixar videos do Youtube, sem restrição de contas para videos privados.</h2>
+<h2> Baixar videos do Youtube, sem restrição de contas para videos privados.</h2>
 
 
 <h3> Configurações de uso:</h3>
